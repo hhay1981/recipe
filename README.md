@@ -9,7 +9,7 @@ The creator describes these cookies as:
 - gluten free 
 - dairy free 
 
-Coconut flour is high in fiber and protein, which means it can keep you fuller for longer.
+**Coconut flour** is high in *fiber and protein*, which means it can keep you fuller for longer.
 
 #### Source
 [Well Plated](https://www.wellplated.com/coconut-flour-cookies/)
