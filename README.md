@@ -1,7 +1,7 @@
 # Peanut Butter Chocolate Chip Cookies
 ### My Favourite Gluten-Free Cookie Recipe!
 
-Peanut butter chocolate chip deliciousness using coconut flour! 
+![Peanut butter chocolate chip deliciousness using coconut flour.](./recipe.jpg "Peanut Butter Chocolate Chip Cookies")
 
 The creator describes these cookies as:
 - paleo-friendly 
